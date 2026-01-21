@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Обслуживание Royal Enfield",
+    pageTitle: "Royal Enfield",
     pageTitleSuffix: "Модель Classic 350 (Reborn) 2022-...",
     enableSPA: true,
     enablePopovers: true,
